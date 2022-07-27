@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Laberinto",
-"dataUrl": "Despliegue.data.unityweb",
-"wasmCodeUrl": "Despliegue.wasm.code.unityweb",
-"wasmFrameworkUrl": "Despliegue.wasm.framework.unityweb",
+"dataUrl": "123.data.unityweb",
+"wasmCodeUrl": "123.wasm.code.unityweb",
+"wasmFrameworkUrl": "123.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
